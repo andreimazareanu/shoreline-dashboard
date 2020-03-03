@@ -204,4 +204,4 @@ The pipeline for a granulated query would look something like this:
             "$avg" : "d"
         }
     }}
-]
+    ]
